@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <trips>
     <trip who="carter-jimmy" role="president">
         <id>2880</id>
@@ -344,11 +344,11 @@
         <end-date>1979-07-01</end-date>
         <country id="korea-south">Korea, Republic of</country>
         <locale>Seoul</locale>
-        <remarks>State visit; met with President Park and Prime Minister Choi.</remarks>
+        <remarks>State visit; met with President Chung Hee Park and Prime Minister Choi Kyu Hah.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
-        <last-modified-by>wicentowskijc</last-modified-by>
-        <last-modified-datetime>2010-02-27T14:35:48.889-04:00</last-modified-datetime>
+        <last-modified-by>bottsjd</last-modified-by>
+        <last-modified-datetime>2022-02-25T14:35:00-04:00</last-modified-datetime>
     </trip>
     <trip who="carter-jimmy" role="president">
         <id>2905</id>

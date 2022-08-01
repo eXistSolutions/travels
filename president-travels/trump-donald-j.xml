@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <trips>
     <trip who="trump-donald-j" role="president">
         <id>3730</id>
@@ -50,7 +50,7 @@
         <end-date>2017-05-24</end-date>
         <country id="italy">Italy</country>
         <locale>Rome</locale>
-        <remarks>Met with Prime Minister Paolo Gentiloni.</remarks>
+        <remarks>Met with President Sergio Mattarella and Prime Minister Paolo Gentiloni.</remarks>
         <created-by>faithti</created-by>
         <created-datetime>2017-09-19T14:29:13.672-04:00</created-datetime>
         <last-modified-by>faithti</last-modified-by>
@@ -460,7 +460,7 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2021-06-09T10:55:00-04:00</created-datetime>
         <last-modified-by>bottsjd</last-modified-by>
-        <last-modified-datetime>2022-01-05T07:54:38-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
     <trip who="trump-donald-j" role="president">
         <id>3988</id>
@@ -474,6 +474,6 @@
         <created-by>cabrerath</created-by>
         <created-datetime>2021-06-09T10:57:00-04:00</created-datetime>
         <last-modified-by>doa-exist-temp</last-modified-by>
-        <last-modified-datetime>2022-01-05T07:52:50-04:00</last-modified-datetime>
+        <last-modified-datetime/>
     </trip>
 </trips>

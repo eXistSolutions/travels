@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <trips>
     <trip who="kennedy-john-f" role="president">
         <id>2776</id>
@@ -36,7 +36,7 @@
         <end-date>1961-06-04</end-date>
         <country id="austria">Austria</country>
         <locale>Vienna</locale>
-        <remarks>Met with President Sehaerf and held talks with Soviet Premier Khrushchev.</remarks>
+        <remarks>Met with President Schaerf and held talks with Soviet Premier Khrushchev.</remarks>
         <created-by>wicentowskijc</created-by>
         <created-datetime>2010-02-27T14:35:48.889-04:00</created-datetime>
         <last-modified-by>wicentowskijc</last-modified-by>

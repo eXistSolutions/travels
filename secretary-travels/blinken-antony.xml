@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trips>
+    <trip who="blinken-antony" role="secretary">
+        <id>3992</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2021-03-15</start-date>
+        <end-date>2021-03-17</end-date>
+        <country id="japan">Japan</country>
+        <locale>Tokyo</locale>
+        <remarks>Attended the U.S.-Japan Security Consultative Committee meeting and met with Minister for Foreign Affairs Toshimitsu Motegi.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-09-21T12:21:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="blinken-antony" role="secretary">
+        <id>3993</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2021-03-17</start-date>
+        <end-date>2021-03-18</end-date>
+        <country id="korea-south">Korea, South</country>
+        <locale>Seoul</locale>
+        <remarks>Attended a U.S.-ROK Foreign and Defense Ministerial and met with Foreign Minister Chung Eui-yong.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-09-21T12:24:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="blinken-antony" role="secretary">
+        <id>3994</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2021-03-22</start-date>
+        <end-date>2021-03-24</end-date>
+        <country id="belgium">Belgium</country>
+        <locale>Brussels</locale>
+        <remarks>Attended the NATO Foreign Ministerial.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-09-21T12:45:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+    <trip who="blinken-antony" role="secretary">
+        <id>3995</id>
+        <role>secretary</role>
+        <name>Antony Blinken</name>
+        <start-date>2021-04-15</start-date>
+        <end-date>2021-04-15</end-date>
+        <country id="afghanistan">Afghanistan</country>
+        <locale>Kabul</locale>
+        <remarks>Met with Afghan leaders and civil society.</remarks>
+        <created-by>cabrerath</created-by>
+        <created-datetime>2021-09-21T12:47:00-04:00</created-datetime>
+        <last-modified-by>doa-exist-temp</last-modified-by>
+        <last-modified-datetime/>
+    </trip>
+</trips>
